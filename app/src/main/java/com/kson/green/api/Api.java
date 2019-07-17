@@ -1,0 +1,1 @@
+package com.kson.green.api;public class Api {    public static String BASE_URL = "http://mobile.bwstudent.com/";    public static String CART_URL = "small/order/verify/v1/findShoppingCart";}
